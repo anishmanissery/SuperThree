@@ -9,3 +9,5 @@ The **SuperThree** is a comprehensive technical indicator designed to identify a
 The SuperThree indicator is an enhancement of the Supertrend indicator, providing additional features and visual cues to help traders make informed decisions. However, like all indicators, it should be used in conjunction with other forms of analysis to confirm signals and avoid potential false positives. Always consider your risk tolerance and investment goals before making trading decisions.
 
 Happy trading! 😊
+
+[SuperThree on TradingView](https://www.tradingview.com/script/IxhFHOhP-SuperThree/)
