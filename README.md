@@ -14,4 +14,6 @@ Happy trading! 😊
 
 [SuperThree on TradingView](https://www.tradingview.com/script/IxhFHOhP-SuperThree/)
 
+---
+
 ![SuperThree img for Github5](https://github.com/anishmanissery/SuperThree/assets/130642985/9d8e15aa-156b-4d46-b087-a9fb0f3e3240)
