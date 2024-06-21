@@ -17,7 +17,7 @@ Happy trading! 😊
 ![SuperThree img for Github5](https://github.com/anishmanissery/SuperThree/assets/130642985/9d8e15aa-156b-4d46-b087-a9fb0f3e3240)
 
 ---
-## Example Usage of SuperThree
+### Example Usage of SuperThree:
 
 To gauge the overall market sentiment or direction effectively, apply the **SuperThree** indicator on a **monthly candlestick chart** with specific settings. For instance, on a broad market index such as the DJIA (Dow Jones Industrial Average) or NIFTY 50, use the following configuration:
 
