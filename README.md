@@ -11,9 +11,18 @@ The SuperThree indicator is an enhancement of the Supertrend indicator, providin
 Happy trading! 😊
 
 ---
-
-[SuperThree on TradingView](https://www.tradingview.com/script/IxhFHOhP-SuperThree/)
+- [SuperThree on TradingView](https://www.tradingview.com/script/IxhFHOhP-SuperThree/)
 
 ---
-
 ![SuperThree img for Github5](https://github.com/anishmanissery/SuperThree/assets/130642985/9d8e15aa-156b-4d46-b087-a9fb0f3e3240)
+
+---
+## Example Usage of SuperThree
+
+To gauge the overall market sentiment or direction effectively, apply the **SuperThree** indicator on a **monthly candlestick chart** with specific settings. For instance, on a broad market index such as the DJIA (Dow Jones Industrial Average) or NIFTY 50, use the following configuration:
+
+**Settings**: `(ATR Length: 10, Factor: 4, Trend Confirmation: Quick, Counter-trend Momentum Level: 8)`
+
+![SuperThree NIFTY for Github](https://github.com/anishmanissery/SuperThree/assets/130642985/a9953bfe-2e59-49af-9452-17e4019aa537)
+
+
