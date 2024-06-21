@@ -73,11 +73,9 @@ else if ( (trend[1] == "down") and (direction == direction[1]) )
 // Counter-trend momentum
 var count = 0
 var gapSum = 0.0
-var firstInDirection = true
 
-count            := (direction != direction[1]) ? 1                            : count + 1
-gapSum           := (direction != direction[1]) ? math.abs(close - superTrend) : gapSum + math.abs(close - superTrend)
-firstInDirection := (direction != direction[1]) ? true                         : false
+count  := (direction != direction[1]) ? 1                            : count + 1
+gapSum := (direction != direction[1]) ? math.abs(close - superTrend) : gapSum + math.abs(close - superTrend)
 
 gapAverage = gapSum/count
 gapAverageMultiple = counterTrendMomentumLevel/10
