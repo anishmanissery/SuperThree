@@ -11,18 +11,32 @@ The SuperThree indicator is an enhancement of the Supertrend indicator, providin
 Happy trading! 😊
 
 ---
-- [SuperThree on TradingView](https://www.tradingview.com/script/IxhFHOhP-SuperThree/)
+[SuperThree on TradingView](https://www.tradingview.com/script/IxhFHOhP-SuperThree/)
 
----
 ![SuperThree img for Github5](https://github.com/anishmanissery/SuperThree/assets/130642985/9d8e15aa-156b-4d46-b087-a9fb0f3e3240)
 
 ---
-### Example Usage of SuperThree:
+### Practical Applications of SuperThree
 
-To gauge the overall market sentiment or direction effectively, apply the **SuperThree** indicator on a **monthly candlestick chart** with specific settings. For instance, on a broad market index such as the DJIA (Dow Jones Industrial Average) or NIFTY 50, use the following configuration:
+SuperThree is a powerful indicator that can significantly enhance your trading strategies. Let’s explore some practical scenarios where you can leverage its insights:
 
-**Settings**: `(ATR Length: 10, Factor: 4, Trend Confirmation: Quick, Counter-trend Momentum Level: 8)`
+#### 1. Market Sentiment Analysis
+Use the SuperThree indicator to assess overall market sentiment or direction. Apply it on a **monthly candlestick chart** with the following settings for broad market indices like the DJIA (Dow Jones Industrial Average) or NIFTY 50:
+
+Settings: `(ATR Length: 10, Factor: 4, Trend Confirmation: Quick, Counter-trend Momentum Level: 8)`
+
+This configuration helps in identifying long-term trends and market momentum effectively.
 
 ![SuperThree NIFTY for Github](https://github.com/anishmanissery/SuperThree/assets/130642985/a9953bfe-2e59-49af-9452-17e4019aa537)
 
+#### 2. Non-Directional Option Selling
+
+SuperThree excels at spotting sideways trends, making it ideal for non-directional option selling strategies such as Short Straddles. Enter positions when SuperThree displays a **blue fill, indicating a sideways trend**. This approach is beneficial for capturing option premium in low-volatility conditions.
+
+- Intraday Trading: Use 5-minute, 10-minute, or similar timeframes.
+- Multiday Trading: Use larger timeframes.
+
+Ensure you apply a fixed stop loss on each side to manage risk effectively.
+
+![SuperThree NIFTY intra for Github](https://github.com/anishmanissery/SuperThree/assets/130642985/52f4c10f-4007-4e75-99fb-7c8b1301d871)
 
