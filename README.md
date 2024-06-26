@@ -16,7 +16,7 @@ Happy trading! 😊
 ![SuperThree img for Github5](https://github.com/anishmanissery/SuperThree/assets/130642985/9d8e15aa-156b-4d46-b087-a9fb0f3e3240)
 
 ---
-## Practical Applications of SuperThree
+## Practical Examples of Using SuperThree
 
 SuperThree is a powerful indicator that can significantly enhance your trading strategies. Let’s explore some practical scenarios where you can leverage its insights:
 
