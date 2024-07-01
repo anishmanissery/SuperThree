@@ -1,5 +1,11 @@
 # SuperThree
-The **SuperThree** is a comprehensive technical indicator designed to identify and visualize market trends and counter-trend momentum in trading. It uses a unique color-coding system to represent different market conditions and potential trading opportunities.
+![SuperThree img for Github5](https://github.com/anishmanissery/SuperThree/assets/130642985/9d8e15aa-156b-4d46-b087-a9fb0f3e3240)
+
+The **SuperThree** is a comprehensive technical indicator designed to identify and visualize market trends and counter-trend momentum. 
+
+- [View SuperThree on TradingView](https://www.tradingview.com/script/IxhFHOhP-SuperThree/)
+
+SuperThree uses a unique color-coding system to represent different market conditions and potential trading opportunities:
 
 1. **Uptrend (Green Fill)**: This is indicated by a green fill. An uptrend is a period where prices are increasing overall, indicating a bullish market. It’s an ideal time for traders to consider entering long positions or exiting short positions.
 2. **Downtrend (Red Fill)**: This is represented by a red fill. A downtrend is a period where prices are decreasing overall, indicating a bearish market. Traders might consider entering short positions or exiting long positions during this phase.
@@ -9,11 +15,6 @@ The **SuperThree** is a comprehensive technical indicator designed to identify a
 The SuperThree indicator is an enhancement of the Supertrend indicator, providing additional features and visual cues to help traders make informed decisions. However, like all indicators, it should be used in conjunction with other forms of analysis to confirm signals and avoid potential false positives. Always consider your risk tolerance and investment goals before making trading decisions.
 
 Happy trading! 😊
-
----
-[SuperThree on TradingView](https://www.tradingview.com/script/IxhFHOhP-SuperThree/)
-
-![SuperThree img for Github5](https://github.com/anishmanissery/SuperThree/assets/130642985/9d8e15aa-156b-4d46-b087-a9fb0f3e3240)
 
 ---
 ## SuperThree Indicator Calculation
