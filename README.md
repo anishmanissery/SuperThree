@@ -14,8 +14,6 @@ SuperThree uses a unique color-coding system to represent different market condi
 
 The SuperThree indicator is an enhancement of the Supertrend indicator, providing additional features and visual cues to help traders make informed decisions. However, like all indicators, it should be used in conjunction with other forms of analysis to confirm signals and avoid potential false positives. Always consider your risk tolerance and investment goals before making trading decisions.
 
-Happy trading! 😊
-
 ---
 ## SuperThree Indicator Calculation
 The SuperThree indicator is an enhanced version of the Supertrend, designed to identify uptrends, downtrends, sideways trends, and counter-trend momentum in the market. Below is a detailed explanation of the calculation and methodology used to determine these trends and momentum.
