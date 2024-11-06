@@ -48,7 +48,7 @@
       },
       {
         "guid": "paypal",
-        "type": "gateway",
+        "type": "payment-provider",
         "address": "https://www.paypal.me/anishmanissery",
         "description": "You can support me via PayPal, helping fund ongoing improvements, new features for SuperThree, and the development of additional indicators."
       },
