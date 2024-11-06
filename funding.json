@@ -1,0 +1,93 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "individual",
+    "role": "owner",
+    "name": "Anish Manissery",
+    "email": "anishmanissery@gmail.com",
+    "description": "I am a dedicated developer with a passion for contributing to the open-source community. I created SuperThree, a powerful technical analysis indicator freely accessible to everyone, designed to help identify uptrends, downtrends, and sideways trends.\n\nYour support enables me to devote more time to enhancing SuperThree, creating new indicators, refining existing features, and providing valuable user support. By sponsoring my work, you’re not only supporting my efforts but also fostering a more inclusive and accessible trading community.\n\nThank you for considering sponsorship. Your support is invaluable to both my work and the broader open-source ecosystem, and together, we can make a meaningful impact.",
+    "webpageUrl": {
+      "url": "https://github.com/anishmanissery"
+    }
+  },
+  "projects": [
+    {
+      "guid": "superthree",
+      "name": "SuperThree",
+      "description": "SuperThree is a comprehensive trading indicator designed to help traders easily spot uptrends, downtrends, and sideways trends.\n\nUsing a unique color-coding system, SuperThree highlights different market conditions and potential trading opportunities:\n- Uptrend: green fill\n- Downtrend: red fill\n- Sideways trend: blue fill\n- Counter-trend momentum: blue arrows\n\nThis visual approach allows traders of all levels to quickly interpret market trends and make informed decisions.",
+      "webpageUrl": {
+        "url": "https://www.tradingview.com/script/IxhFHOhP-SuperThree/"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/anishmanissery/SuperThree"
+      },
+      "licenses": [
+        "MIT"
+      ],
+      "tags": [
+        "technical-analysis",
+        "indicators",
+        "trading",
+        "stocks",
+        "stock-market",
+        "crypto",
+        "tradingview",
+        "pine-script",
+        "education",
+        "user-experience"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "github",
+        "type": "other",
+        "address": "https://github.com/sponsors/anishmanissery",
+        "description": "Support my work on GitHub Sponsors to help fund the development of new indicators and the enhancement of SuperThree."
+      },
+      {
+        "guid": "paypal",
+        "type": "gateway",
+        "address": "https://www.paypal.me/anishmanissery",
+        "description": "You can support me via PayPal, helping fund ongoing improvements, new features for SuperThree, and the development of additional indicators."
+      },
+      {
+        "guid": "bank",
+        "type": "bank",
+        "description": "Direct bank transfers are accepted. Please email for further details."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "developer-time",
+        "status": "active",
+        "name": "Developer compensation",
+        "description": "Your support allows me to dedicate more time to enhancing SuperThree, creating new indicators, improving existing features, and providing valuable user support.",
+        "amount": 1000,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "github",
+          "paypal",
+          "bank"
+        ]
+      },
+      {
+        "guid": "any-plan",
+        "status": "active",
+        "name": "Goodwill Support",
+        "description": "Contribute any amount you'd like to show your support for the project. Every contribution helps and is greatly appreciated.",
+        "amount": 0,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": [
+          "github",
+          "paypal",
+          "bank"
+        ]
+      }
+    ],
+    "history": []
+  }
+}
