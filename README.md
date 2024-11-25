@@ -1,5 +1,5 @@
 # SuperThree
-![SuperThree img for Github5](https://github.com/anishmanissery/SuperThree/assets/130642985/9d8e15aa-156b-4d46-b087-a9fb0f3e3240)
+![Bitcoin-SuperThree-with-labels](https://github.com/user-attachments/assets/c5714aa1-ff9b-4588-b51e-15b72b6e53f2)
 
 The **SuperThree** is a comprehensive technical indicator designed to identify and visualize market trends and counter-trend momentum. 
 
