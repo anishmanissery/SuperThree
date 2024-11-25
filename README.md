@@ -16,7 +16,7 @@ The SuperThree indicator is an enhancement of the Supertrend indicator, providin
 
 ---
 ## SuperThree Indicator Calculation
-The SuperThree indicator is an enhanced version of the Supertrend, designed to identify uptrends, downtrends, sideways trends, and counter-trend momentum in the market. Below is a detailed explanation of the calculation and methodology used to determine these trends and momentum.
+The SuperThree indicator is an enhanced version of the Supertrend, designed to identify uptrends, downtrends, sideways trends, and counter-trend momentum in the market. Below is a detailed explanation of the calculation and methodology used to determine these trends and counter-trend momentum.
 
 #### Components of SuperThree
 1. **ATR-Based Bands**: 
