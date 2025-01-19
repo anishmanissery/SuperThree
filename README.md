@@ -17,7 +17,7 @@ SuperThree uses a unique color-coding system to represent different market condi
 
 The SuperThree indicator is an enhancement of the Supertrend indicator, providing additional features and visual cues to help traders make informed decisions. However, like all indicators, it should be used in conjunction with other forms of analysis to confirm signals and avoid potential false positives.
 
-## How To Use SuperThree Indicator
+## How To Use SuperThree
 
 #### In TradingView Charts:
 - Open the chart of the desired asset on [tradingview.com](https://www.tradingview.com/chart/).
@@ -30,3 +30,8 @@ The PineScript code for SuperThree is available [here](https://github.com/anishm
 
 ## Calculation
 Detailed explanations of the calculations can be found [here](https://github.com/anishmanissery/SuperThree/blob/main/Calculation.md).
+
+## Sponsors
+SuperThree is an MIT licensed open-source project that is completely free to use. Your contributions enable me to dedicate more time to enhancing the SuperThree indicator and developing new indicators, all of which will be released under the open-source MIT license and made available to everyone at no cost.
+
+Sponsorships can be made via [GitHub Sponsors](https://github.com/sponsors/anishmanissery) or [PayPal](https://www.paypal.me/anishmanissery). Both monthly-recurring sponsorships and one-time donations are welcome. Sponsors will receive logo placements as outlined in the [Sponsorship Tiers](https://github.com/sponsors/anishmanissery).
